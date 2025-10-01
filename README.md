@@ -125,9 +125,3 @@ Contributions are welcome! Please fork this repository, and create a feature bra
 - FullCalendar for the robust calendar UI 
 - Bootstrap for the responsive styling 
 - ASP.NET Core Identity for authentication scaffolding 
-
-# Still Working On/Upcoming Features:
-
-- Data persistence/enabling the database to save events added to the database/calendar application.
-- Have edits to the calendar save after being edited, and the save button is clicked.
-- Deleting a Calendar Event does not crash the entire application.
