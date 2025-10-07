@@ -18,6 +18,50 @@ While developing this program, I designed it to showcase my skills and knowledge
 - **Lazy loading:** This allows the users to navigate calendar properties via EF Core proxies.
 - **Clean separation:** Controllers, view models, data access layer (IDAL), and the rest of the project are all cleanly separated from one another to allow for seamless future improvements and upcoming features to be added and developed easily.
 
+# Current Finished Product Images:
+
+### Main Menu:
+![Calendar Application – Main Menu](ReadMe_File_Images/Calendar_Application_Main_Menu.png)
+
+### Privacy Policy Page:
+![Calendar Application – Privacy Policy Page](ReadMe_File_Images/Calendar_Application_Privacy_Page_Example.png)
+
+### Register Account Page:
+![Calendar Application – Register Account Page](ReadMe_File_Images/Calendar_Application_Register_Account_Page.png)
+
+### Register Account Confirmation:
+![Calendar Application – Register Account Confirmation](ReadMe_File_Images/Calendar_Application_Register_Account_Confirmation.png)
+
+### Log In Page:
+![Calendar Application – Log In Page](ReadMe_File_Images/Calendar_Application_LogIn_Page.png)
+
+### Main Menu (Logged In):
+![Calendar Application – Main Menu Logged In](ReadMe_File_Images/Calendar_Application_Main_Menu_LoggedIn.png)
+
+### Locations Page:
+![Calendar Application – Locations Page](ReadMe_File_Images/Calendar_Application_Locations_Main_Menu.png)
+
+### Create Location Page:
+![Calendar Application – Create Location Page](ReadMe_File_Images/Calendar_Application_Create_A_Location.png)
+
+### Location Creation Success:
+![Calendar Application – Location Creation Success](ReadMe_File_Images/Calendar_Application_Success_Create_A_Location_Menu.png)
+
+### Events Page:
+![Calendar Application – Events Page](ReadMe_File_Images/Calendar_Application_Events_Main_Menu.png)
+
+### Create Event Page:
+![Calendar Application – Create Event Page](ReadMe_File_Images/Calendar_Application_Create_A_Event.png)
+
+### Event Creation Success:
+![Calendar Application – Event Creation Success](ReadMe_File_Images/Calendar_Application_Success_Create_A_Event_Menu.png)
+
+### Main Menu (Logged In + Added Event):
+![Calendar Application – Main Calendar Interface with Event](ReadMe_File_Images/Calendar_Application_Main_Menu_With_Event.png)
+
+### Events Overview Interface:
+![Calendar Application – Events Overview](ReadMe_File_Images/Calendar_Application_Events_View_Main_Menu.png)
+
 ## Technologies Used:
 - .NET 9 (ASP.NET Core MVC) — TargetFramework: net9.0
 - Entity Framework Core 9 — SQL Server provider + LazyLoading proxies
